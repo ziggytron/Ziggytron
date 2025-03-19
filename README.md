@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a member of the programming team on frc team 8727 aka Glitch 2.0 
+I'm a member of the programming team on Glitch 2.0 / team 8727 
 
 <!--
 **ziggytron/Ziggytron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
